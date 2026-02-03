@@ -1,0 +1,5 @@
+{
+  "name": "Dentista Pro",
+  "description": "Aplicación para gestión de citas dentales con generación de QR, comentarios de pacientes y sistema de cancelaciones en tiempo real.",
+  "requestFramePermissions": []
+}
